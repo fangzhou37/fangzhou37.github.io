@@ -44731,7 +44731,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	(function ($) {
 	  function getToken() {
-	    var queryParam = this.document.URL.split("?")[1];
+	    var queryParam = this.document.location.search.split("?")[1];
 	    var token = queryParam ? queryParam.split('token=')[1] : null;
 	    console.log(token);
 	    var rawString = 'myspeciallonglonglonglonglongtoken' + token + token + token;
