@@ -40781,6 +40781,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  },
 	  render: function render() {
 	    var tokenString = (0, _urlHelper2.default)();
+
 	    if (!tokenString) {
 	      return _react2.default.createElement(
 	        'div',
@@ -44730,7 +44731,7 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	(function ($) {
 	  function getToken() {
-	    var queryParam = document.URL.split("?")[1];
+	    var queryParam = this.document.URL.split("?")[1];
 	    var token = queryParam ? queryParam.split('token=')[1] : null;
 	    console.log(token);
 	    var rawString = 'myspeciallonglonglonglonglongtoken' + token + token + token;
