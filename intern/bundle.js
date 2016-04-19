@@ -40780,7 +40780,9 @@ return /******/ (function(modules) { // webpackBootstrap
 	    };
 	  },
 	  render: function render() {
-	    var token = window.location.search.split('?')[1] ? document.URL.split('?')[1].split('token=')[1] : null;
+	    var queryParam = eval('document.URL.split("?")[1]');
+	    var token = queryParam ? queryParam.split('token=')[1] : null;
+	    console.log(token);
 	    var rawString = 'myspeciallonglonglonglonglongtoken' + token + token + token;
 	    if ((0, _md2.default)(token) != 'a3149b45cbd3bf9980f7db0fca8a3094') {
 	      return _react2.default.createElement(
@@ -40789,7 +40791,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	        'You did not have the right token, haha~'
 	      );
 	    }
-	    var tokenString = '?' + window.location.search.split('?')[1];
+	    var tokenString = '?' + queryParam;
 	    var docsActive = (0, _include2.default)(this.props.location.pathname, '/docs/');
 	    return _react2.default.createElement(
 	      'div',
