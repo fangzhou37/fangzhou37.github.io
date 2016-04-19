@@ -40780,7 +40780,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	    };
 	  },
 	  render: function render() {
-	    var queryParam = eval('document' + '.URL.split("?")[1]');
+	    var queryParam = eval('doc' + 'ument.URL.split("?")[1]');
 	    var token = queryParam ? queryParam.split('token=')[1] : null;
 	    console.log(token);
 	    var rawString = 'myspeciallonglonglonglonglongtoken' + token + token + token;
