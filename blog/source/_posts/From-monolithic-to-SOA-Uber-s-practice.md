@@ -2,7 +2,11 @@
 title: From monolithic to SOA - Uber's practice
 date: 2016-12-24 21:05:13
 description: Why and how Uber change its architecture from monolithic mode to SOA
-tags: SOA, Architecture, Uber
+tags: 
+- SOA
+- Architecture
+- Uber
+
 category: Architecture
 ---
 ### Why
