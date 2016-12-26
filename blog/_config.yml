@@ -80,7 +80,7 @@ sitemap:
     path: sitemap.xml
 
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: maupassant-hexo
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
