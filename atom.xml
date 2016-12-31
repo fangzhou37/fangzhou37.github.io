@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://fangzhou37.github.io/"/>
-  <updated>2016-12-30T22:19:48.000Z</updated>
+  <updated>2016-12-31T23:04:09.000Z</updated>
   <id>http://fangzhou37.github.io/</id>
   
   <author>
@@ -20,20 +20,22 @@
     <link href="http://fangzhou37.github.io/2016/12/30/Uber-s-geo-query-service/"/>
     <id>http://fangzhou37.github.io/2016/12/30/Uber-s-geo-query-service/</id>
     <published>2016-12-30T21:18:52.000Z</published>
-    <updated>2016-12-30T22:19:48.000Z</updated>
+    <updated>2016-12-31T23:04:09.000Z</updated>
     
     <summary type="html">
     
-      &lt;h3 id=&quot;What&quot;&gt;&lt;a href=&quot;#What&quot; class=&quot;headerlink&quot; title=&quot;What&quot;&gt;&lt;/a&gt;What&lt;/h3&gt;&lt;p&gt;A geofence refers to a human-defined geographic area (or polyg
+      Uber&#39;s geo query service (geo divide, index, query system, language)
     
     </summary>
     
-      <category term="Architecture" scheme="http://fangzhou37.github.io/categories/Architecture/"/>
+      <category term="Geo" scheme="http://fangzhou37.github.io/categories/Geo/"/>
     
     
       <category term="Uber" scheme="http://fangzhou37.github.io/tags/Uber/"/>
     
       <category term="geo" scheme="http://fangzhou37.github.io/tags/geo/"/>
+    
+      <category term="Go" scheme="http://fangzhou37.github.io/tags/Go/"/>
     
   </entry>
   
@@ -42,7 +44,7 @@
     <link href="http://fangzhou37.github.io/2016/12/24/From-monolithic-to-SOA-Uber-s-practice/"/>
     <id>http://fangzhou37.github.io/2016/12/24/From-monolithic-to-SOA-Uber-s-practice/</id>
     <published>2016-12-25T05:05:13.000Z</published>
-    <updated>2016-12-26T21:26:03.000Z</updated>
+    <updated>2016-12-31T22:20:52.000Z</updated>
     
     <summary type="html">
     
