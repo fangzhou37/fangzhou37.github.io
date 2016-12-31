@@ -31,9 +31,9 @@
       <category term="Architecture" scheme="http://fangzhou37.github.io/categories/Architecture/"/>
     
     
-      <category term="geo" scheme="http://fangzhou37.github.io/tags/geo/"/>
-    
       <category term="Uber" scheme="http://fangzhou37.github.io/tags/Uber/"/>
+    
+      <category term="geo" scheme="http://fangzhou37.github.io/tags/geo/"/>
     
   </entry>
   
@@ -53,11 +53,11 @@
       <category term="Architecture" scheme="http://fangzhou37.github.io/categories/Architecture/"/>
     
     
-      <category term="Uber" scheme="http://fangzhou37.github.io/tags/Uber/"/>
-    
       <category term="SOA" scheme="http://fangzhou37.github.io/tags/SOA/"/>
     
       <category term="Architecture" scheme="http://fangzhou37.github.io/tags/Architecture/"/>
+    
+      <category term="Uber" scheme="http://fangzhou37.github.io/tags/Uber/"/>
     
   </entry>
   
